@@ -1,5 +1,5 @@
 #===========================================#
-#          CHEAT-SHEET nº 02                #
+#          CHEAT-SHEET nÂº 02                #
 #          Cleaning data in r               #
 #===========================================# 
 #           March, 08, 2018.                #
@@ -8,12 +8,9 @@
 #         Maria Leticia Machado             #
 #     leticimachado01@icloud.com            #
 #-------------------------------------------#
-#          CODE LIKE A GIRL                 #
+#              CodeMigas                    #
+#           codemigas@gmail.com             #
 #-------------------------------------------#
-#         Maria Leticia Machado             #
-#     leticimachado01@icloud.com            #
-#-------------------------------------------#
-
 
 #-------------------------------------------#
 #Understanding the struchture of your data  #
