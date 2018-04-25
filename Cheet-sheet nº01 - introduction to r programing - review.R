@@ -2,16 +2,14 @@
 #          CHEAT-SHEET nº 01                #
 #          Cleaning data in r               #
 #===========================================# 
-#           March, 09, 2018.                #
+#           March, 08, 2018.                #
 #          Recife - PE, Brazil              #
 #-------------------------------------------#
 #         Maria Leticia Machado             #
 #     leticimachado01@icloud.com            #
 #-------------------------------------------#
-#          CODE LIKE A GIRL                 #
-#-------------------------------------------#
-#         Maria Leticia Machado             #
-#     leticimachado01@icloud.com            #
+#             CODEMIGAS                     #
+#         codemigas@gmail.com               #
 #-------------------------------------------#
 
 
