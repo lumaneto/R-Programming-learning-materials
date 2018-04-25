@@ -1,19 +1,18 @@
 #===========================================#
-#          CHEAT-SHEET nº 02                #
-#          Cleaning data in r               #
+#             Cheat Sheet nÂº 01             #
+#            Cleaning Data in R             #
 #===========================================# 
-#           March, 08, 2018.                #
+#            March 08, 2018                 #
 #          Recife - PE, Brazil              #
 #-------------------------------------------#
 #         Maria Leticia Machado             #
 #     leticimachado01@icloud.com            #
 #-------------------------------------------#
-#          CODE LIKE A GIRL                 #
+#               CodeMigas                   #
+#                                           #
+#           codemigas@gmail.com             #
+#    facebook.com/groups/codemigas          #
 #-------------------------------------------#
-#         Maria Leticia Machado             #
-#     leticimachado01@icloud.com            #
-#-------------------------------------------#
-
 
 #-------------------------------------------#
 #Understanding the struchture of your data  #
